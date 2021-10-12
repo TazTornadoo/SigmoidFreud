@@ -2,3 +2,7 @@ numpy
 pandas
 keras
 matplotlib
+pandas-profiling
+scikit-learn
+seglearn
+xgboost
