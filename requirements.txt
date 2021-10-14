@@ -6,3 +6,4 @@ pandas-profiling
 scikit-learn
 seglearn
 xgboost
+ipywidgets
