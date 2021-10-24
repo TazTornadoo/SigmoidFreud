@@ -1,4 +1,3 @@
-from database import connection
 import pandas as pd
 import sqlite3
 
